@@ -1,4 +1,9 @@
 
+* {
+  font-style: monospace;
+  color: #424242
+
+}
 body {
 background-color: #FAFAFA;
 margin: 0px;
@@ -31,7 +36,7 @@ a {
   text-align: center;
   font-family: monospace;
   font-size: 20px;
-  
+
 
 }
 footer {
