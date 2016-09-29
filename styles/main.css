@@ -7,7 +7,7 @@ padding: 0;
 header {
   background-color: #735E2A;
   margin: 0px;
-  padding: 25;
+  padding: 40;
 }
 h1 {
   text-align: center;
@@ -45,7 +45,7 @@ footer {
   margin: auto;
   padding: 25;
   text-align: center;
-  height: 50px;
+  height: 100px;
   position: fixed;
   bottom: 0;
   left: 0;
