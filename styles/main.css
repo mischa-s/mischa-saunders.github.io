@@ -22,14 +22,16 @@ h1 {
 }
 h2 {
   text-align: center;
-  margin: 1.7em;
+  margin: 1.2em;
+  margin-bottom: .4em;
   font-family: monospace;
-  font-size: 2.5em;
+  font-size: 2.2em;
 }
 h3 {
   text-align: center;
   font-weight: 100;
-  font-size: 1.8em;
+  font-size: 1.6em;
+
 }
 
 a {
@@ -39,6 +41,8 @@ a {
 .homepagemenu {
   text-align: center;
   font-size: 1.4em;
+  margin-top: 1.5em;
+
 
 }
 .homebox {
@@ -52,7 +56,7 @@ a {
   margin: auto;
   margin-top: 5em;
   margin-bottom: 5em;
-  width: 60em;
+  width: 47em;
 
 }
 .menu {
