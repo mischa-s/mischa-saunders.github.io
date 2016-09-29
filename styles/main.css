@@ -8,7 +8,7 @@ header {
   background-color: #735E2A;
   margin: 0px;
   height: 100px
-  
+
 }
 h1 {
   text-align: center;
@@ -16,8 +16,8 @@ h1 {
   background-color:#D7C69B;
   border-color: #D7C69B;
   border-radius: 5px;
-  border-width: thick;
-  padding: 25px;
+  padding: 15px, 5px, 15px, 5px;
+  margin: 40px, 0px, 0px, 0px;
 }
 h2 {
   text-align: center;
