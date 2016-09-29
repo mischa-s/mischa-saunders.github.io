@@ -17,10 +17,12 @@ h1 {
   background-color:#D7CCC8;
   padding: 40px;
   font-weight: 100;
-  border-style: solid;
-  border-width: thick;
-  border-color:  #FAFAFA;
-  border-radius: 5px;
+  border-left-style: solid;
+  border-left-width: thick;
+  border-left-color:  #FAFAFA;
+  border-right-style: solid;
+  border-right-width: thick;
+  border-right-color:  #FAFAFA;
 }
 h2 {
   text-align: center;
@@ -42,10 +44,14 @@ a {
 }
 .homebox {
   padding: 50px;
-  border-style: solid;
-  border-width: thick;
+  border-top-style: solid;
+  border-top-width: thick;
+  border-top-color:  #7a7048;
+  border-bottom-style: solid;
+  border-bottom-width: thick;
   border-color:  #7a7048;
-  border-radius: 5px;
+  
+
 }
 .menu {
   font-size: 20px;
