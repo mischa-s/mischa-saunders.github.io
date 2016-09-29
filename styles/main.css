@@ -17,13 +17,6 @@ h1 {
   background-color:#D7CCC8;
   padding: 2em;
   font-weight: 100;
-  border-left-style: solid;
-  border-left-width: thick;
-  border-left-color:  #FAFAFA;
-  border-right-style: solid;
-  border-right-width: thick;
-  border-right-color:  #FAFAFA;
-  border-top: none;
   width: 18em;
   margin: auto;
 }
@@ -55,8 +48,8 @@ a {
   border-bottom-style: solid;
   border-bottom-width: thick;
   border-color:   #6b685c;
-  margin-top: 1.7em;
-  margin-bottom: 1.7em;
+  margin-top: 5em;
+  margin-bottom: 5em;
 }
 .menu {
   font-size: 1.5em;
