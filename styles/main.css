@@ -6,8 +6,12 @@ header {
   background-color: #E7E8C0;
 
 }
+
 h2 {
   margin: auto;
+}
+#test {
+  background-color: blue;
 }
 p {
   color: #D5BB4A;
