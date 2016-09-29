@@ -56,24 +56,32 @@ a {
   margin-bottom: 5em;
   width: 47em;
 }
-
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: space-between;
+  justify-content: flex-end;
+  background-color: #d3d0c2;
+  height: 47em;
+  width: 50em;
+}
 .menu {
-    font-size: 1.5em;
-    float: left;
-    text-align: center;
+    display: flex;
     display: inline-block;
-    width: 35%;
-  }
+    flex-direction: column;
+    font-size: 1.4em;
+    width: 40%;
 
 }
   .mainpara {
-    width: 60%;
+    display: flex;
     display: inline-block;
     font-family: sans-serif;
-    float:right;
-    text-align: left;
-    margin-left: 3%;
-  }
+    width: 50%;
+
+    }
+
 #italic {
   font-style: italic;
   font-size: 1em;
