@@ -39,13 +39,13 @@ a {
   font-size: 20px;
   display: inline-block;
   float: left;
-  padding: 200px;
+  padding: 100px;
 }
 .mainpara {
   width: 500px;
   margin: 50px
   display: inline-block;
-
+  left: 600px;
 
 }
 
