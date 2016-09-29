@@ -24,7 +24,7 @@ h1 {
   border-right-width: thick;
   border-right-color:  #FAFAFA;
   border-top: none;
-  width: 400px;
+  width: 600px;
   margin: auto;
 }
 h2 {
@@ -34,6 +34,7 @@ h2 {
 }
 h3 {
   text-align: center;
+  font-weight: 100;
 }
 
 a {
@@ -49,10 +50,10 @@ a {
   padding: 50px;
   border-top-style: solid;
   border-top-width: thick;
-  border-top-color:  #7a7048;
+  border-top-color:   #6b685c;
   border-bottom-style: solid;
   border-bottom-width: thick;
-  border-color:  #7a7048;
+  border-color:   #6b685c;
   margin-top: 25px;
   margin-bottom: 25px;
 }
