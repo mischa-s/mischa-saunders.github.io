@@ -39,13 +39,16 @@ a {
   font-size: 20px;
   display: inline-block;
   float: left;
-  padding: 100px;
+  padding-left: 300px;
+
 }
 .mainpara {
   width: 500px;
   margin: auto;
   display: inline-block;
   float: right;
+  padding-right: 300px;
+  
 
 }
 
