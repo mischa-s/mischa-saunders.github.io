@@ -8,7 +8,6 @@ header {
   background-color: #735E2A;
   margin: 0px;
   height: 130px
-
 }
 h1 {
   text-align: center;
@@ -16,6 +15,9 @@ h1 {
   background-color:#D7C69B;
   border-color: #D7C69B;
   padding: 40px;
+  opacity: 50%;
+  
+
 }
 h2 {
   text-align: center;
@@ -30,19 +32,9 @@ a {
   text-decoration: none;
   color: #827867;
 }
-p {
-  margin: 5px;
+.menu {
 
 }
-* {
-  margin: 0;
-  padding: 0;
-}
-
-html, body {
-  height: 100%;
-}
-
 footer {
   background-color: #735E2A;
   margin: auto;
@@ -53,5 +45,4 @@ footer {
   bottom: 0;
   left: 0;
   width: 100%;
-
 }
