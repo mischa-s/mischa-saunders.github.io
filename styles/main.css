@@ -59,23 +59,33 @@ a {
   width: 47em;
 
 }
+
+.flex-container {
+    display: flex;
+    flex-flow: column;
+    display: inline-flex;
+    flex-wrap: wrap;
+    width: 50em;
+    height: 30em;
+    background-color: lightgrey;
+    margin: auto;
+}
 .menu {
-  font-size: 1.5em;
-  display: inline-block;
-  float: left;
-  padding-left: 5.5em;
+    font-size: 1.5em;
+    display: flex;
+    display: inline-flex;
+    width: 40%;
+            }
+.menu:nth-child(2) {
+  height: 80%;
 
 }
-.mainpara {
-  width: 23em;
-  margin: auto;
-  display: inline-block;
-  float: right;
-  padding-right: 30%;
-  padding-bottom: 8em;
-  font-family: sans-serif;
-
-}
+  .mainpara {
+    width: 60%;
+    display: inline-flex;
+    font-family: sans-serif;
+    align-self: flex-start;
+  }
 #italic {
   font-style: italic;
   font-size: 1em;
