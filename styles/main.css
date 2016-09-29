@@ -39,7 +39,7 @@ a {
   font-size: 20px;
   display: inline-block;
   float: left;
-  margin: 150px, 150px, 150px
+  margin: 200px, 0px, 200px, 0px;
 }
 .mainpara {
   width: 500px;
