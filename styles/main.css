@@ -39,11 +39,11 @@ a {
   font-size: 20px;
   display: inline-block;
   float: left;
-  margin: 60px
+  margin: 100px
 }
 .mainpara {
   width: 500px;
-  margin: 0, 25%, 0, 25%;
+  margin: 0, 25%, 0, 40%;
   display: inline-block;
 
 
