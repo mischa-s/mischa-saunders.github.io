@@ -1,22 +1,21 @@
 
 body {
-background-color: #FEF7E5;
+background-color: #FAFAFA;
 margin: 0px;
 padding: 0;
 }
 header {
-  background-color: #735E2A;
+  background-color: #D7CCC8;
   margin: 0px;
   height: 130px
 }
 h1 {
   text-align: center;
   font-family: serif;
-  background-color:#D7C69B;
-  border-color: #D7C69B;
+  background-color:#999999;
   padding: 40px;
   opacity: 50%;
-  
+
 
 }
 h2 {
@@ -36,7 +35,7 @@ a {
 
 }
 footer {
-  background-color: #735E2A;
+  background-color: #D7CCC8;
   margin: auto;
   padding: 25;
   text-align: center;
