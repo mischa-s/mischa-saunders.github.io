@@ -57,6 +57,7 @@ a {
   width: 47em;
 }
 .flex-container {
+  margin: auto;
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
