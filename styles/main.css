@@ -25,7 +25,7 @@ h1 {
   border-right-color:  #FAFAFA;
   border-top: none;
   width: 400px;
-  
+  margin: auto;
 }
 h2 {
   text-align: center;
@@ -53,8 +53,8 @@ a {
   border-bottom-style: solid;
   border-bottom-width: thick;
   border-color:  #7a7048;
-
-
+  margin-top: 25px;
+  margin-bottom: 25px;
 }
 .menu {
   font-size: 20px;
