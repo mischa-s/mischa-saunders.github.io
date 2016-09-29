@@ -16,8 +16,6 @@ h1 {
   background-color:#D7CCC8;
   padding: 40px;
   opacity: 50%;
-
-
 }
 h2 {
   text-align: center;
@@ -37,8 +35,13 @@ a {
   font-family: monospace;
   font-size: 20px;
 
-
 }
+.mainpara {
+  left: 400;
+  right: 800;
+  
+}
+
 footer {
   background-color: #D7CCC8;
   margin: auto;
