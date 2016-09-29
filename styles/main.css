@@ -16,12 +16,15 @@ h1 {
   font-family: sans-serif;
     background-color:#D7CCC8;
   padding: 40px;
-  opacity: 50%;
+  font-weight: 100;
 }
 h2 {
   text-align: center;
   margin: 30px;
   font-family: monospace;
+}
+h3 {
+  text-align: center;
 }
 
 a {
@@ -35,6 +38,10 @@ a {
 }
 .homebox {
   padding: 50px;
+  border-style: solid;
+  border-width: thick;
+  border-color:  #7a7048;
+  border-radius: 5px;
 }
 .menu {
   font-size: 20px;
