@@ -7,7 +7,7 @@ padding: 0;
 header {
   background-color: #735E2A;
   margin: 0px;
-  height: 100px
+  height: 200px
 
 }
 h1 {
@@ -15,7 +15,7 @@ h1 {
   font-family: serif;
   background-color:#D7C69B;
   border-color: #D7C69B;
-  padding: 20px
+  padding: 50px
 }
 h2 {
   text-align: center;
@@ -44,7 +44,7 @@ footer {
   margin: auto;
   padding: 25;
   text-align: center;
-  height: 100px;
+  height: 50px;
   position: fixed;
   bottom: 0;
   left: 0;
