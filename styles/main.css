@@ -39,7 +39,7 @@ a {
   font-size: 20px;
   display: inline-block;
   float: left;
-  padding-left: 200px;
+  padding-left: 150px;
 
 }
 .mainpara {
@@ -47,7 +47,7 @@ a {
   margin: auto;
   display: inline-block;
   float: right;
-  padding-right: 25%;
+  padding-right: 35%;
   padding-bottom: 100px
 
 }
