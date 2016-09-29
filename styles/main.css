@@ -42,8 +42,6 @@ a {
   text-align: center;
   font-size: 1.4em;
   margin-top: 1.5em;
-
-
 }
 .homebox {
   padding: 1.6em;
@@ -57,36 +55,24 @@ a {
   margin-top: 5em;
   margin-bottom: 5em;
   width: 47em;
-
 }
 
-.flex-container {
-    display: -webkit-flex;
-    display: flex;
-    flex-flow: column;
-    display: inline-flex;
-    flex-wrap: wrap;
-    width: 50em;
-    height: 30em;
-    background-color: lightgrey;
-    margin: auto;
-}
 .menu {
     font-size: 1.5em;
-    display: flex;
-    display: inline-flex;
-    width: 40%;
-            }
-.menu:nth-child(2) {
-  height: 80%;
+    float: left;
+    text-align: center;
+    display: inline-block;
+    width: 35%;
+  }
 
 }
   .mainpara {
     width: 60%;
-    display: inline-flex;
+    display: inline-block;
     font-family: sans-serif;
-    align-self: auto;
-    align-content: center;
+    float:right;
+    text-align: left;
+    margin-left: 3%;
   }
 #italic {
   font-style: italic;
