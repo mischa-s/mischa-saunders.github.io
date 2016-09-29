@@ -61,6 +61,7 @@ a {
 }
 
 .flex-container {
+    display: -webkit-flex;
     display: flex;
     flex-flow: column;
     display: inline-flex;
@@ -84,7 +85,8 @@ a {
     width: 60%;
     display: inline-flex;
     font-family: sans-serif;
-    align-self: flex-start;
+    align-self: auto;
+    align-content: center;
   }
 #italic {
   font-style: italic;
