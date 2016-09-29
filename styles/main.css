@@ -48,8 +48,11 @@ a {
   border-bottom-style: solid;
   border-bottom-width: thick;
   border-color:   #6b685c;
+  margin: auto;
   margin-top: 5em;
   margin-bottom: 5em;
+  width: 25em;
+
 }
 .menu {
   font-size: 1.5em;
