@@ -5,14 +5,14 @@ margin: 0px;
 padding: 0;
 }
 header {
-  background-color: #D7CCC8;
+  background-color: #A1887F;
   margin: 0px;
   height: 130px
 }
 h1 {
   text-align: center;
   font-family: serif;
-  background-color:#999999;
+  background-color:#D7CCC8;
   padding: 40px;
   opacity: 50%;
 
