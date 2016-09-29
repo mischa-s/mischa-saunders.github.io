@@ -48,11 +48,12 @@ a {
   display: inline-block;
   float: right;
   padding-right: 25%;
-  padding-bottom: 150px
-
+  padding-bottom: 100px
 
 }
-
+#italic {
+  font-style: italic;
+}
 
 footer {
   background-color: #D7CCC8;
