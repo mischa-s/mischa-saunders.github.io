@@ -7,7 +7,7 @@ padding: 0;
 header {
   background-color: #735E2A;
   margin: 0px;
-  height: 200px
+  height: 135px
 
 }
 h1 {
@@ -15,7 +15,7 @@ h1 {
   font-family: serif;
   background-color:#D7C69B;
   border-color: #D7C69B;
-  padding: 50px
+  padding: 40px;
 }
 h2 {
   text-align: center;
