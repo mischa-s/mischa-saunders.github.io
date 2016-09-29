@@ -37,9 +37,9 @@ a {
 
 }
 .mainpara {
-  left: 400;
-  right: 800;
-  
+  width: 400px;
+  margin: auto;
+
 }
 
 footer {
