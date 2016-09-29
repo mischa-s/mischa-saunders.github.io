@@ -7,7 +7,8 @@ padding: 0;
 header {
   background-color: #735E2A;
   margin: 0px;
-  padding: 40;
+  height: 100px
+  
 }
 h1 {
   text-align: center;
