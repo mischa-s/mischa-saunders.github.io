@@ -22,13 +22,14 @@ h1 {
 }
 h2 {
   text-align: center;
-  margin: 2.3em;
+  margin: 1.7em;
   font-family: monospace;
+  font-size: 2.5em;
 }
 h3 {
   text-align: center;
   font-weight: 100;
-  font-size: 1.7em;
+  font-size: 1.8em;
 }
 
 a {
@@ -51,7 +52,7 @@ a {
   margin: auto;
   margin-top: 5em;
   margin-bottom: 5em;
-  width: 40em;
+  width: 60em;
 
 }
 .menu {
