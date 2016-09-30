@@ -96,9 +96,10 @@ a {
         display: inline-block;
         font-family: sans-serif;
         float: right;
-        width: 600px;
-        height: 400px;
-        padding-right: 400px;
+        width: 500px;
+        height: 350px;
+        padding-right: 450px;
+        padding-bottom: 200px;
 
 
 
