@@ -7,6 +7,8 @@
 body {
 background-color: #FAFAFA;
 font-family: monospace;
+margin-top: 0;
+padding-top: 0;
 }
 
 h1 {
@@ -17,6 +19,8 @@ h1 {
   font-weight: 100;
   width: 18em;
   margin: auto;
+  margin-top: 0
+
 }
 h2 {
   text-align: center;
