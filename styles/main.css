@@ -64,10 +64,10 @@ a {
   align-content: space-around;
   justify-content: flex-start;
   background-color: #e6e3d9;
-  height: 33em;
+  height: 40em;
   width: 90em;
   margin-bottom: 10em;
-  margin-right: 80em;
+  margin-right: 100em;
   margin-left: 5em;
 }
 .menu {
@@ -85,7 +85,7 @@ a {
     display: flex;
     display: inline-block;
     font-family: sans-serif;
-    width: 40em;
+    width: 30em;
 
 
     }
