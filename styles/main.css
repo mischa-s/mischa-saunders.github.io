@@ -2,28 +2,24 @@
 * {
   font-style: monospace;
   color: #424242
-
 }
+
 body {
 background-color: #FAFAFA;
-font-family: monospace;
+text-align:center;
 margin-top: 0;
 padding-top: 0;
 }
 
 h1 {
-  text-align: center;
   font-family: sans-serif;
   background-color:#D7CCC8;
   padding: 2em;
   font-weight: 100;
   width: 18em;
   margin: auto;
-  margin-top: 0
-
-}
+  }
 h2 {
-  text-align: center;
   margin: 1.2em;
   margin-bottom: .4em;
   font-family: monospace;
@@ -58,59 +54,15 @@ a {
   margin-bottom: 5em;
   width: 47em;
 }
-.flex-container {
-  margin: auto;
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  align-content: space-around;
-  justify-content: flex-start;
-  height: 43em;
-  width: 75em;
-  margin-bottom: 10em;
-  margin-right: 90em;
-  margin-left: 6em;
-}
-.menu {
-    display: flex;
-    display: inline-block;
-    flex-direction: column;
-    align-self: flex-start;
-    align-content: flex-start;
-    font-size: 2em;
-    width: 14em;
-    padding-bottom: 6em
-  }
-
-  .mainpara {
-    display: flex;
-    display: inline-block;
-    font-family: sans-serif;
-    width: 40em;
-    background-color: #e6e3d9;
-    padding-left: 2em;
-    padding-right: 2em;
-    text-align: justify;
-    font-family: monospace;
-
-}
-  .menu2 {
-    font-size: 20px;
-    display: inline-block;
-    float: left;
-    padding-left: 140px;
-
-    }
   .mainpara2 {
-    width: 500px;
-    margin: auto;
-    display: inline-block;
-    float: right;
-    padding-right: 32.5%;
-    padding-bottom: 100px
-    text-align:justify;
-        }
-
+  width: 500px;
+  background-color: #e6e3d9;
+  display: inline-block;
+  text-align:justify;
+  }
+  .menu {
+  font-size: 20px;
+}
 #italic {
   font-style: italic;
   font-size: 1em;
