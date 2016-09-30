@@ -60,6 +60,9 @@ a {
     text-align: left;
     font-family: monospace;
     }
+.parabox {
+  margin-bottom: 15em
+}
   .mainpara {
     text-align: justify;
     width: 550px;
