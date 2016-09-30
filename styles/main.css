@@ -84,10 +84,8 @@ footer {
   background-color: #D7CCC8;
   padding: 1.5em;
   text-align: center;
-  height: 3em;
-  position: fixed;
-  bottom: 0;
+  position: absolute;
   left: 0;
-  width: 100%;
-  margin-top: 10em;
-  clear: both;
+  bottom: 0;
+  height: 100px;
+    width: 100%;
