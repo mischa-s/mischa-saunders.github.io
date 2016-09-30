@@ -67,6 +67,7 @@ a {
   width: 40%;
   float: left;
   margin-left: 2%
+  padding: 2em
 }
 #right {
   width: 20%;
@@ -85,7 +86,6 @@ a {
     background-color: #e6e3d9;
     font-family: monospace;
     text-align: justify;
-    padding: 2em
 
   }
 
