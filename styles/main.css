@@ -26,6 +26,7 @@ h2 {
   font-size: 2.2em;
 }
 h3 {
+  font-family: sans-serif;
   font-weight: 100;
   font-size: 1.6em;
 
@@ -49,7 +50,7 @@ a {
   border-color:   #6b685c;
   margin: auto;
   margin-top: 5em;
-  margin-bottom: 5em;
+  margin-bottom: 10em;
   width: 47em;
 }
   .menu {
