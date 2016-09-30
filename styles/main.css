@@ -33,6 +33,8 @@ h3 {
   text-align: center;
   font-weight: 100;
   font-size: 1.6em;
+  font-family: serif;
+  font-weight: 100;
 
 }
 
@@ -42,8 +44,10 @@ a {
 }
 .homepagemenu {
   text-align: center;
-  font-size: 1.4em;
+  font-size: 1em;
   margin-top: 1.5em;
+  font-family: serif;
+  font-weight: 300
 }
 .homebox {
   padding: 1.6em;
@@ -54,7 +58,7 @@ a {
   border-bottom-width: thick;
   border-color:   #6b685c;
   margin: auto;
-  margin-top: 5em;
+  margin-top: 4em;
   margin-bottom: 5em;
   width: 47em;
 }
@@ -79,7 +83,9 @@ a {
     margin: auto;
     display: inline-block;
     text-align: left;
-    font-size: 2em;
+    font-size: 1.5em;
+    font-family: serif;
+    font-weight: 100;
   }
   .mainpara {
     margin: auto;
