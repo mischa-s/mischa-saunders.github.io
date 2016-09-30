@@ -63,7 +63,7 @@ a {
   flex-wrap: wrap;
   align-content: space-around;
   justify-content: flex-start;
-  height: 60em;
+  height: 46em;
   width: 65em;
   margin-bottom: 10em;
   margin-right: 90em;
@@ -77,7 +77,7 @@ a {
     align-content: flex-start;
     font-size: 2em;
     width: 14em;
-    padding-bottom: 10em
+    padding-bottom: 6em
   }
 
   .mainpara {
@@ -86,11 +86,12 @@ a {
     font-family: sans-serif;
     width: 30em;
     background-color: #e6e3d9;
-    padding: 2em;
+    padding-left: 2em;
+    padding-right: 2em;
+    text-align: justify;
+    font-family: monospace;
 
-
-    }
-
+}
   .menu2 {
     font-size: 20px;
     display: inline-block;
