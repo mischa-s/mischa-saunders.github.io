@@ -1,14 +1,14 @@
-
 * {
   font-style: monospace;
   color: #424242
-}
 
+}
 body {
 background-color: #FAFAFA;
-text-align:center;
-margin-top: 0;
-padding-top: 0;
+margin-top: 0em;
+padding-top: 0em;
+font-family: monospace;
+text-align: center;
 }
 
 h1 {
@@ -18,7 +18,7 @@ h1 {
   font-weight: 100;
   width: 18em;
   margin: auto;
-  }
+}
 h2 {
   margin: 1.2em;
   margin-bottom: .4em;
@@ -26,7 +26,6 @@ h2 {
   font-size: 2.2em;
 }
 h3 {
-  text-align: center;
   font-weight: 100;
   font-size: 1.6em;
 
@@ -37,7 +36,6 @@ a {
   color: #827867;
 }
 .homepagemenu {
-  text-align: center;
   font-size: 1.4em;
   margin-top: 1.5em;
 }
@@ -54,15 +52,22 @@ a {
   margin-bottom: 5em;
   width: 47em;
 }
-  .mainpara {
-  width: 500px;
-  background-color: #e6e3d9;
-  display: inline-block;
-  text-align:justify;
-  }
   .menu {
-  font-size: 20px;
-}
+    font-size: 20px;
+    display: inline-block;
+    float: left;
+    padding-left: 140px;
+    }
+  .mainpara {
+    width: 500px;
+    margin: auto;
+    display: inline-block;
+    float: right;
+    padding-right: 32.5%;
+    padding-bottom: 100px
+    text-align:justify;
+        }
+
 #italic {
   font-style: italic;
   font-size: 1em;
@@ -77,5 +82,4 @@ footer {
   position: fixed;
   bottom: 0;
   left: 0;
-  width: 100%;
-}
+width: 100%;
