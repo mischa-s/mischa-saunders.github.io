@@ -63,11 +63,11 @@ a {
   flex-wrap: wrap;
   align-content: space-around;
   justify-content: flex-start;
-  height: 46em;
-  width: 65em;
+  height: 43em;
+  width: 75em;
   margin-bottom: 10em;
   margin-right: 90em;
-  margin-left: 11em;
+  margin-left: 9em;
 }
 .menu {
     display: flex;
@@ -84,7 +84,7 @@ a {
     display: flex;
     display: inline-block;
     font-family: sans-serif;
-    width: 30em;
+    width: 40em;
     background-color: #e6e3d9;
     padding-left: 2em;
     padding-right: 2em;
