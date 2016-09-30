@@ -66,7 +66,9 @@ a {
 #center {
   width: 40%;
   float: left;
-  margin-left: 2%
+  margin-left: 2%;
+  height: 100%;
+  margin-bottom: 15%
 
 }
 #right {
@@ -104,4 +106,5 @@ footer {
   bottom: 0;
   left: 0;
   width: 100%;
+  clear: both;
 }
