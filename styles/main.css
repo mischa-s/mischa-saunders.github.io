@@ -84,8 +84,8 @@ footer {
   background-color: #D7CCC8;
   padding: 1.5em;
   text-align: center;
+  position: sticky;
   height: 3em;
-  position: fixed;
   bottom: 0;
   left: 0;
   width: 100%;
