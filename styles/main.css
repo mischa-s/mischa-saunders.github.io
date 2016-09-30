@@ -65,21 +65,21 @@ a {
   justify-content: flex-start;
   background-color: #e6e3d9;
   height: 47em;
-  width: 200em;
+  width: 100em;
 }
 .menu {
     display: flex;
     display: inline-block;
     flex-direction: column;
     font-size: 2em;
-    width: 30em;
+    width: 20em;
 
 }
   .mainpara {
     display: flex;
     display: inline-block;
     font-family: sans-serif;
-    width: 80em;
+    width: 40em;
 
     }
 
