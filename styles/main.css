@@ -61,11 +61,12 @@ a {
 #left {
   width: 20%;
   float: left;
-  margin-left: 15%;
+  margin-left: 11%;
   }
 #center {
-  width: 33%;
+  width: 40%;
   float: left;
+  margin-left: 3%
 }
 #right {
   width: 20%;
@@ -83,7 +84,8 @@ a {
     font-family: sans-serif;
     background-color: #e6e3d9;
     font-family: monospace;
-    text-align: center;
+    text-align: justify;
+    padding: 2em
 
   }
 
