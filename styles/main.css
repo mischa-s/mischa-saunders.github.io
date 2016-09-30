@@ -58,6 +58,7 @@ a {
 }
 .flex-container {
   margin: auto;
+  padding-right: 25em;
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
@@ -82,6 +83,27 @@ a {
     width: 50%;
 
     }
+
+  .menu2 {
+        display: inline-block;
+        font-size: 1.4em;
+        width: 40%;
+        float: left;
+        padding-left: 110px
+
+    }
+  .mainpara2 {
+        display: inline-block;
+        font-family: sans-serif;
+        float: right;
+        width: 210px;
+        height: 400px;
+        
+
+
+
+
+        }
 
 #italic {
   font-style: italic;
