@@ -64,20 +64,23 @@ a {
   flex-wrap: wrap;
   align-content: space-between;
   justify-content: flex-start;
+  align-items: flex-end;
   height: 43em;
   width: 75em;
   margin-bottom: 10em;
   margin-right: 90em;
   margin-left: 6em;
+
 }
 .menu {
     display: flex;
     display: inline-block;
-    flex-direction: column;
     align-self: flex-start;
+    order: 2;
     font-size: 2em;
     width: 14em;
-    padding-bottom: 6em
+    padding-bottom: 2em
+
   }
 
   .mainpara {
@@ -92,7 +95,10 @@ a {
     font-family: monospace;
 
 }
-  .menu2 {
+    .mainpara:last-child {
+      align-self: stretch;
+    }
+    .menu2 {
     font-size: 20px;
     display: inline-block;
     float: left;
