@@ -57,20 +57,20 @@ a {
   margin-bottom: 5em;
   width: 47em;
 }
-#c1, #c2, #c3 {
-    width: 33%;
-}
+
 .menu {
     display: inline-block;
-    align-self: flex-start;
+    text-align: right;
     font-size: 2em;
     width: 64%
+
 }
   .mainpara {
     display: inline-block;
     font-family: sans-serif;
     background-color: #e6e3d9;
     font-family: monospace;
+    width 66%
 
   }
 
