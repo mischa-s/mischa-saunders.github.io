@@ -1,13 +1,10 @@
 * {
-  font-style: monospace;
   color: #424242
-
 }
 body {
 background-color: #FAFAFA;
 margin-top: 0em;
 padding-top: 0em;
-font-family: monospace;
 text-align: center;
 }
 
@@ -39,6 +36,8 @@ a {
 .homepagemenu {
   font-size: 1.4em;
   margin-top: 1.5em;
+  font-family: monospace;
+  font-weight: 100;
 }
 .homebox {
   padding: 1.6em;
@@ -50,7 +49,6 @@ a {
   border-color:   #6b685c;
   margin: auto;
   margin-top: 5em;
-  margin-bottom: 10em;
   width: 47em;
 }
   .menu {
@@ -67,10 +65,7 @@ a {
     display: inline-block;
     float: right;
     padding-right: 32.5%;
-    padding-bottom: 100px
-
-
-        }
+            }
 
 #italic {
   font-style: italic;
@@ -87,4 +82,5 @@ footer {
   position: fixed;
   bottom: 0;
   left: 0;
-width: 100%;
+  width: 100%;
+  margin-top: 12em;
