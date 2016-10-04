@@ -1,11 +1,11 @@
  * {
   font-style: monospace;
-  color: #424242
+  color: #645B4A
 
 
 }
 body {
-background-color: #FAFAFA;
+background-color: #F3F3F3;
 font-family: monospace;
 margin-top: 0;
 padding-top: 0;
@@ -34,7 +34,7 @@ h1 {
   font-weight: 100;
   font-size: 2.5em;
   justify-content: center;
-  background-color:#D7CCC8;
+  background-color:#D2B58F;
   padding: 2em;
   width: 18em;
   margin: auto;
@@ -65,7 +65,7 @@ a {
 }
 .homepagemenu {
   text-align: center;
-  font-size: 1em;
+  font-size: 1.2em;
   margin-top: 1.5em;
   font-family: calluna,Verdana,sans-serif;
   font-weight: 300
@@ -127,7 +127,7 @@ a {
 }
 
 footer {
-  background-color: #D7CCC8;
+  background-color: #D2B58F;
   padding: 1.5em;
   text-align: center;
   color: #827867;
