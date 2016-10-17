@@ -1,7 +1,7 @@
 body {
   font-weight: 300;
   font-family:'Raleway', sans-serif;
-  font-size: 1.6em
+  font-size: 1.6em;
 }
 a {
   text-decoration: none;
@@ -20,14 +20,17 @@ h1 {
   margin-top: 5%;
   margin-bottom: 6%
 }
-
-nav  {
-  margin-left: 5%;
-  margin-top: 6%
+h2 {
+  text-align: center;
+  font-size: 2em;
 }
+
 ul {
   list-style: none;
-  margin: auto;
+}
+.navbar-list {
+margin-top: 6%;
+margin-left: 3%
 }
 .navbar-item {
   float: left;
@@ -39,12 +42,57 @@ ul {
   border-style: dashed;
   box-sizing: border-box;
   max-width: 100%;
-
   }
-.Blurb {
-  display: block;
+.blogs {
+  padding: 5%;
+  background-color: rgba(200, 220, 120, 0.3);
+}
+td {
+  text-align: center;
+}
+.blogposttext {
+  text-align: justify;
+  padding: 5%
+}
 
+.mainhead {
+  padding: 3%
+}
+.blogsix {
+  background-color: rgba(90, 130, 182, 0.3);
+  padding-bottom: 5%;
+  padding-top: 5%;
+  }
+.blogfive {
+  padding-bottom: 5%;
+  padding-top: 5%;
 
-
-
+}
+.blogfour {
+  background-color: rgba(217, 179, 217, 0.3);
+  padding-bottom: 5%;
+  padding-top: 5%;
+}
+.blogthree {
+  padding-bottom: 5%;
+  padding-top: 5%;
+}
+.blogtwo {
+  background-color: rgba(26, 150, 14, 0.37);
+  padding-bottom: 5%;
+  padding-top: 5%;
+}
+.blogone {
+  padding-bottom: 5%;
+  padding-top: 5%;
+}
+.contact {
+  padding-bottom: 5%;
+  padding-top: 5%;
+  background-color: rgba(104, 158, 0, 0.3);
+}
+.about {
+  padding-bottom: 5%;
+  padding-top: 5%;
+  background-color: rgba(156, 218, 116, 0.3);
 }
