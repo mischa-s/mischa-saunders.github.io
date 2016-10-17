@@ -1,0 +1,42 @@
+a {
+  text-decoration: none;
+  color: rgb(77, 52, 5)
+}
+h1 {
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  font-weight: 100;
+  font-size: 4rem;
+  border-color: rgb(226, 155, 81);
+  border-radius: 50%;
+  border-style: dashed;
+  padding: 1em;
+  margin: auto;
+  margin-top: 5%;
+}
+
+ul {
+  list-style: none;
+  margin: auto;
+}
+.navbar-list  {
+  margin: auto;
+  float: right;
+}
+.navbar-item {
+  float: left;
+  padding: 1em;
+}
+.mainimage img {
+  max-height: 200px;
+  border-radius: 50%;
+  border-style: dashed;
+  margin-top: 20%
+  box-sizing: border-box;
+  max-width: 100%;
+
+  }
+.blurb {
+  text-align: center;
+  display: block;
+}
