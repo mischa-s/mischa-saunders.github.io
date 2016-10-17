@@ -1,3 +1,8 @@
+body {
+  font-weight: 300;
+  font-family:'Raleway', sans-serif;
+  font-size: 1.6em
+}
 a {
   text-decoration: none;
   color: rgb(77, 52, 5)
@@ -9,19 +14,20 @@ h1 {
   font-size: 4rem;
   border-color: rgb(226, 155, 81);
   border-radius: 50%;
-  border-style: dashed;
+  border-style:solid;
   padding: 1em;
   margin: auto;
   margin-top: 5%;
+  margin-bottom: 6%
 }
 
+nav  {
+  margin-left: 5%;
+  margin-top: 6%
+}
 ul {
   list-style: none;
   margin: auto;
-}
-.navbar-list  {
-  margin: auto;
-  float: right;
 }
 .navbar-item {
   float: left;
@@ -31,12 +37,14 @@ ul {
   max-height: 200px;
   border-radius: 50%;
   border-style: dashed;
-  margin-top: 20%
   box-sizing: border-box;
   max-width: 100%;
 
   }
-.blurb {
-  text-align: center;
+.Blurb {
   display: block;
+
+
+
+
 }
