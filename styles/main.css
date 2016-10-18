@@ -39,10 +39,18 @@ margin-left: 3%
 .mainimage img {
   max-height: 200px;
   border-radius: 50%;
-  border-style: dashed;
   box-sizing: border-box;
   max-width: 100%;
   }
+  p img{
+    max-height: 240px;
+    box-sizing: border-box;
+    max-width: 100%;
+    padding: 5%;
+    float: left;
+    margin: 3%
+
+    }
 .blogs {
   padding: 5%;
   background-color: rgba(200, 220, 120, 0.3);
@@ -62,6 +70,13 @@ td {
   background-color: rgba(90, 130, 182, 0.3);
   padding-bottom: 5%;
   padding-top: 5%;
+  }
+  .wireframe {
+    max-height: 100px;
+    max-width: 100px;
+    box-sizing: border-box;
+    max-width: 100%;
+    float: left;
   }
 .blogfive {
   padding-bottom: 5%;
