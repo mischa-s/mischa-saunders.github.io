@@ -67,6 +67,11 @@ td {
   padding: 3%
 }
 .blogsix {
+  background-color: rgba(99, 118, 230, 0.2);
+  padding-bottom: 5%;
+  padding-top: 5%;
+}
+.blogsix {
   background-color: rgba(96, 174, 237, 0.2);
   padding-bottom: 5%;
   padding-top: 5%;
