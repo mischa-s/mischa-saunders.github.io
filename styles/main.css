@@ -53,7 +53,7 @@ margin-left: 3%
     }
 .blogs {
   padding: 5%;
-  background-color: rgba(200, 220, 120, 0.3);
+  background-color:  rgba(255, 200, 37, 0.2);
 }
 td {
   text-align: center;
@@ -67,7 +67,7 @@ td {
   padding: 3%
 }
 .blogsix {
-  background-color: rgba(90, 130, 182, 0.3);
+  background-color: rgba(96, 174, 237, 0.2);
   padding-bottom: 5%;
   padding-top: 5%;
   }
@@ -93,7 +93,7 @@ td {
   padding-top: 5%;
 }
 .blogtwo {
-  background-color: rgba(26, 150, 14, 0.37);
+  background-color: rgba(26, 150, 14, 0.2);
   padding-bottom: 5%;
   padding-top: 5%;
 }
