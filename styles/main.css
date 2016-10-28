@@ -81,6 +81,16 @@ td {
 .mainhead {
   padding: 3%
 }
+.blogeleven {
+  background-color: rgba(241, 35, 33, 0.19);
+  padding-bottom: 5%;
+  padding-top: 5%;
+}
+.blogten {
+  background-color:
+  padding-bottom: 5%;
+  padding-top: 5%;
+}
 .blognine {
   background-color: rgba(57, 96, 171, 0.2);
   padding-bottom: 5%;
@@ -98,7 +108,7 @@ td {
   padding-top: 5%;
 }
 .blogsix {
-  background-color: rgba(96, 174, 237, 0.2);
+  background-color: rgba(249, 122, 12, 0.2);
   padding-bottom: 5%;
   padding-top: 5%;
   }
@@ -124,7 +134,7 @@ td {
   padding-top: 5%;
 }
 .blogtwo {
-  background-color: rgba(26, 150, 14, 0.2);
+  background-color: rgba(153, 121, 6, 0.21);
   padding-bottom: 5%;
   padding-top: 5%;
 }
