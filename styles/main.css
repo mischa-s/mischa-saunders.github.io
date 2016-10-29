@@ -2,7 +2,10 @@ body {
   font-weight: 300;
   font-family:'Raleway', sans-serif;
   font-size: 1.6em;
+  text-align: justify;
 }
+
+
 a {
   text-decoration: none;
   color: rgb(77, 52, 5)
@@ -24,7 +27,10 @@ h2 {
   text-align: center;
   font-size: 2em;
 }
-
+h3 {
+  text-align: center;
+  font-size: 1.3em
+}
 ul {
   list-style: none;
 }
@@ -32,15 +38,21 @@ ul {
 margin-top: 6%;
 margin-left: 3%
 }
-.navbar-item {
+li.navbar-item {
   float: left;
-  padding: 1em;
+  margin-left: 25%;
+}
+li.navbar-item-main {
+  float: left;
+  margin-left: 15%;
 }
 .mainimage img {
   max-height: 200px;
   border-radius: 50%;
   box-sizing: border-box;
   max-width: 100%;
+  margin-left: 20%;
+  margin-right: 20%;
   }
   p img{
     max-height: 240px;
@@ -57,6 +69,7 @@ margin-left: 3%
   box-sizing: border-box;
   max-width: 100%;
   margin-top: 15px;
+  margin-left: 25%;
 }
 .swirlimage img{
   max-height: 400px;
@@ -156,4 +169,24 @@ td {
   padding-bottom: 5%;
   padding-top: 5%;
   background-color:
+}
+/* Larger than phablet */
+@media (min-width: 478px) {
+  p {
+    text-align:left;
+  }
+  @media (min-width: 780px){
+  li.navbar-item{
+    margin-left: 15%;
+  }
+  li.navbar-item-main{
+    margin-left: 3%;
+  }
+  .headimage img {
+    margin-left: 0%;
+}
+@media (min-width: 1000px){
+li.navbar-item{
+  margin-left: 3%;
+
 }
