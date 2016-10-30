@@ -81,6 +81,15 @@ li.navbar-item-main {
   margin-left: 10%;
   margin-right: 10%;
 }
+.aboutTree img{
+  max-height: 200px;
+  border-radius: 20%;
+  box-sizing: border-box;
+  max-width: 100%;
+  margin-top:5%;
+  margin-bottom: 5%;
+
+}
 .blogs {
   padding: 5%;
   background-color:  rgba(255, 200, 37, 0.2);
