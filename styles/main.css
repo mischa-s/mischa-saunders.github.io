@@ -81,15 +81,9 @@ li.navbar-item-main {
   margin-left: 10%;
   margin-right: 10%;
 }
-.aboutTree img{
-  max-height: 200px;
-  border-radius: 20%;
-  box-sizing: border-box;
-  max-width: 100%;
-  margin-top:5%;
-  margin-bottom: 5%;
-
-}
+.about2 {
+  background-color: rgba(223, 165, 251, 0.2);
+  }
 .blogs {
   padding: 5%;
   background-color:  rgba(255, 200, 37, 0.2);
@@ -105,29 +99,45 @@ td {
 .mainhead {
   padding: 3%
 }
-.blogeleven {
-  background-color: rgba(34, 153, 193, 0.21);
+.blogpost {
   padding-bottom: 5%;
   padding-top: 5%;
 }
-.blogten {
+
+.blogthirteen {
+  background-color: 
+  padding-bottom: 5%;
+  padding-top: 5%;
+}
+.blogtwelve {
+  background-color:rgba(34, 153, 193, 0.21);
+  padding-bottom: 5%;
+  padding-top: 5%;
+}
+
+.blogeleven {
   background-color:
   padding-bottom: 5%;
   padding-top: 5%;
 }
+.blogten {
+  background-color:rgba(57, 96, 171, 0.2);
+  padding-bottom: 5%;
+  padding-top: 5%;
+}
 .blognine {
-  background-color: rgba(57, 96, 171, 0.2);
+  background-color:
   padding-bottom: 5%;
   padding-top: 5%;
 }
 
 .blogeight {
-  background-color:
+  background-color:rgba(119, 230, 179, 0.2);
   padding-bottom: 5%;
   padding-top: 5%;
 }
 .blogseven {
-  background-color:rgba(119, 230, 179, 0.2);
+  background-color:
   padding-bottom: 5%;
   padding-top: 5%;
 }
