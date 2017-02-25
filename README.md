@@ -1,2 +1,2 @@
 # mischa-saunders.github.io
-Mischa's EDA Blog
+A nine-week blog from my first days of learning HTML and CSS
